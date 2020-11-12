@@ -2,5 +2,6 @@
 This is the official template for student's projects
 
 Members:
-* Erika
-* Chiara
+* Erika del Rosso
+* Chiara Morgillo
+
